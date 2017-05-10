@@ -1,0 +1,70 @@
+/* Here goes your CSS */
+body{
+  background-color: #C1C8D2;
+  font-family: 'Open sans', sans-serif;
+  color: #474554;
+  font-size: 1.5.0em;
+  line-height: 1.1;
+}
+
+h1{
+  color: #971D2A;
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.2em;
+  line-height: ;
+}
+
+h2{
+  color: #851A22;
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.1em;
+  line-height: ;
+}
+
+p{
+  color: #9F1F2E;
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.0em;
+  line-height: ;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkred;
+  text-decoration: bold;
+  text-decoration: underline;
+}
+
+.container{
+  width: 800px;   /* Set width */
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+
+.card{
+background: white;
+border: solid;
+border-radius: 15px;
+box-shadow: 10px 10px 5px #888888;
+margin: 30 auto;
+padding: 20;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.padded-list li {
+  padding: 20px;
+}
+
+.standard-image-size{
+  width: 300px;
+}
+
+.left_pad_text{
+  padding-left: 20
+}
+
